@@ -58,6 +58,11 @@ export default function App() {
           Clear all Tasks
         </button>
       )}
+
+      <footer className='footer'>
+        © 2026 Anil G &nbsp;·&nbsp; PlanPilot &nbsp;·&nbsp; All rights reserved
+      </footer>
+      
     </div>
   );
 }
